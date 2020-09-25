@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b696699-f7b3-45d4-a61e-c8d7f50acbb7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XvfjLmpKxPk3JRfM9VOIlEcSby" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ToyShop">
+    <configuration name="AreaOfFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfFigures" />
+      <module name="Conditional Statements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Number100To200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number100To200" />
+      <module name="Conditional Statements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordGuess" />
+      <module name="Conditional Statements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToyShop" />
+      <module name="Conditional Statements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toyShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toyShop" />
+      <module name="Conditional Statements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AreaOfFigures" />
+      <item itemvalue="Application.Number100To200" />
+      <item itemvalue="Application.PasswordGuess" />
+      <item itemvalue="Application.ToyShop" />
+      <item itemvalue="Application.toyShop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ToyShop" />
+        <item itemvalue="Application.toyShop" />
+        <item itemvalue="Application.AreaOfFigures" />
+        <item itemvalue="Application.PasswordGuess" />
+        <item itemvalue="Application.Number100To200" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b696699-f7b3-45d4-a61e-c8d7f50acbb7" name="Default Changelist" comment="" />
+      <created>1581931622387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581931622387</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1581981812053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581981812053" />
+    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1581981812053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581981812053" />
+    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1581981812053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581981812053" />
+    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1581981812053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581981812053" />
+    <state x="225" y="30" key="new project wizard" timestamp="1582035976482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="30" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582035976482" />
+  </component>
+</project>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="134961f0-c92b-4d90-8e7c-db19e2469aa1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZkePY2ALo9DdeETWLfcMHvj2kT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TournamentOfChristmas">
+    <configuration name="CatWalking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CatWalking" />
+      <module name="Exam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnergyBooster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnergyBooster" />
+      <module name="Exam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodForPets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FoodForPets" />
+      <module name="Exam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuitcasesLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuitcasesLoad" />
+      <module name="Exam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TournamentOfChristmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TournamentOfChristmas" />
+      <module name="Exam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CatWalking" />
+      <item itemvalue="Application.EnergyBooster" />
+      <item itemvalue="Application.FoodForPets" />
+      <item itemvalue="Application.SuitcasesLoad" />
+      <item itemvalue="Application.TournamentOfChristmas" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TournamentOfChristmas" />
+        <item itemvalue="Application.SuitcasesLoad" />
+        <item itemvalue="Application.FoodForPets" />
+        <item itemvalue="Application.EnergyBooster" />
+        <item itemvalue="Application.CatWalking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="134961f0-c92b-4d90-8e7c-db19e2469aa1" name="Default Changelist" comment="" />
+      <created>1585387495049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585387495049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1342" height="226" key="GridCell.Tab.0.bottom" timestamp="1585398092571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585398092571" />
+    <state width="1342" height="226" key="GridCell.Tab.0.center" timestamp="1585398092570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585398092570" />
+    <state width="1342" height="226" key="GridCell.Tab.0.left" timestamp="1585398092570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585398092570" />
+    <state width="1342" height="226" key="GridCell.Tab.0.right" timestamp="1585398092571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585398092571" />
+    <state width="1342" height="226" key="GridCell.Tab.1.bottom" timestamp="1585398092571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585398092571" />
+    <state width="1342" height="226" key="GridCell.Tab.1.center" timestamp="1585398092571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585398092571" />
+    <state width="1342" height="226" key="GridCell.Tab.1.left" timestamp="1585398092571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585398092571" />
+    <state width="1342" height="226" key="GridCell.Tab.1.right" timestamp="1585398092571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585398092571" />
+  </component>
+</project>

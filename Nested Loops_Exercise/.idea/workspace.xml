@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b708c1e-5e78-43e2-b1c3-576621bfc018" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZM6nnHe4WVcMsUhFGhWizvqEja" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.SpecialNumbers">
+    <configuration name="PasswordGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordGenerator" />
+      <module name="Nested Loops_Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecialNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpecialNumbers" />
+      <module name="Nested Loops_Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumPrimeNonPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumPrimeNonPrime" />
+      <module name="Nested Loops_Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainTheTrainers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrainTheTrainers" />
+      <module name="Nested Loops_Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo" />
+      <module name="Nested Loops_Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PasswordGenerator" />
+      <item itemvalue="Application.SpecialNumbers" />
+      <item itemvalue="Application.SumPrimeNonPrime" />
+      <item itemvalue="Application.TrainTheTrainers" />
+      <item itemvalue="Application.demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpecialNumbers" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.PasswordGenerator" />
+        <item itemvalue="Application.TrainTheTrainers" />
+        <item itemvalue="Application.SumPrimeNonPrime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b708c1e-5e78-43e2-b1c3-576621bfc018" name="Default Changelist" comment="" />
+      <created>1584636784511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584636784511</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="192" y="136" width="1200" height="539" key="DiffContextDialog" timestamp="1584731771339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="192" y="136" width="1200" height="539" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1584731771339" />
+    <state width="1342" height="182" key="GridCell.Tab.0.bottom" timestamp="1584895226269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584895226269" />
+    <state width="1342" height="182" key="GridCell.Tab.0.center" timestamp="1584895226269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="182" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584895226269" />
+    <state width="1342" height="182" key="GridCell.Tab.0.left" timestamp="1584895226269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="182" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584895226269" />
+    <state width="1342" height="182" key="GridCell.Tab.0.right" timestamp="1584895226269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="182" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584895226269" />
+    <state width="1342" height="226" key="GridCell.Tab.1.bottom" timestamp="1584733946073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584733946073" />
+    <state width="1342" height="226" key="GridCell.Tab.1.center" timestamp="1584733946072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584733946072" />
+    <state width="1342" height="226" key="GridCell.Tab.1.left" timestamp="1584733946072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584733946072" />
+    <state width="1342" height="226" key="GridCell.Tab.1.right" timestamp="1584733946073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="226" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584733946073" />
+    <state x="229" y="26" key="new project wizard" timestamp="1584902317047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="229" y="26" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584902317047" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Nested_Loops_Exercise$SpecialNumbers.ic" NAME="SpecialNumbers Coverage Results" MODIFIED="1584708620668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

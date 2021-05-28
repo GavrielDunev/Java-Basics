@@ -1,2 +1,2 @@
 # SoftUni - Java - Basics
-Topics & Exercises
+Topics and Exercises
